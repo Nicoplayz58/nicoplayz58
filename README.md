@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 # 👋 Hi, I’m Nicolás Rodríguez
 
 🎓 **Data Science Student @ Universidad del Norte**  
