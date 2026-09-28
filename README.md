@@ -1,49 +1,48 @@
 ![Banner](./banner.png)
 
-# 👋 Hi, I’m Nicolás Rodríguez
+# 👋 Hi, I'm Nicolás Rodríguez
 
-🎓 **Data Science Student @ Universidad del Norte**  
-🚀 Passionate about transforming data into insights and building solutions that drive decision-making.  
-📊 Skilled in **Machine Learning, Data Analysis, and Visualization**, with hands-on experience in backend operations, automation, and real-time monitoring.  
+🎓 **B.Sc. in Data Science @ Universidad del Norte**  
+💼 **Data Scientist @ Horbath Technologies – Gases del Caribe**  
+🚀 Data Scientist & AI Engineer focused on **Machine Learning, Deep Learning, Agentic AI and Business Analytics**, building data-driven solutions that turn technical innovation into real business impact.
 
 ---
 
 ## 💡 About Me
-I’m a motivated and results-driven student of Data Science with a strong foundation in **statistics, programming, and data analytics**. I enjoy tackling complex problems, optimizing processes, and creating high-value ML/DL models grounded in systematic research.
-
-Currently, I’m in my **4th year**, honored to be part of the **Honor Roll**, and recipient of academic scholarships for excellence.  
+I work across the full analytical pipeline: from data extraction and ETL with **Python, SQL and Databricks**, through feature engineering and model construction, to deployment and decision-support dashboards. I enjoy solving real business problems with data, and lately I've been building **AI agents** and predictive models for credit portfolio management.
 
 ---
 
 ## 🔧 Skills
-- **Programming & Data**: Python, R, SQL, Excel  
-- **Visualization & BI**: Power BI, R Studio, Matplotlib, Seaborn  
-- **Machine Learning & Deep Learning**: Model design, evaluation & deployment  
-- **Data Engineering**: ETL Pipelines, Docker, AWS SQS, Terraform  
-- **Other**: Process automation, critical thinking, teamwork & leadership  
+- **Machine Learning & AI**: Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, NLP, Computer Vision  
+- **Agentic & Generative AI**: Agentic Programming, Claude Code, Harness Engineering, RAG, OpenAI API, Azure AI, Amazon Bedrock  
+- **Data Platforms**: Databricks, Databricks Apps, PostgreSQL, MongoDB, BigQuery  
+- **Programming & Analysis**: Python, R, SQL  
+- **Visualization & BI**: Power BI, Dash, Streamlit, Plotly, Matplotlib, Seaborn  
+- **Backend & MLOps**: FastAPI, Docker, Git, GitHub, Model Deployment  
 
 ---
 
 ## 🏢 Experience
-- **Backend Operations Developer (Freelance)**  
-  Developed backend solutions and automated data processes for an educational app in the USA.  
-  Worked on integration projects with AWS SQS, Docker, and Terraform. *(Jul 2024 – Sep 2024)*  
+- **Data Scientist – Horbath Technologies (Gases del Caribe)** *(Jun 2026 – Present)*  
+  Credit-risk modeling, AI agents and data automation for portfolio management.
 
-- **Real-Time Analyst (Allied Global Colombia)**  
-  Designed algorithms optimizing 90% of processes, built statistical reports, and monitored KPIs. *(Jun 2023 – Present)*  
+- **Data Science Consultant – Freelance, Part-time** *(Jan 2026 – Present)*  
+  Computer vision for geological research and predictive models for small businesses.
 
-- **Customer Service Advocate – Medical Insurance (Sagility Health)**  
-  Delivered accurate solutions in high-pressure environments while strengthening communication skills. *(Dec 2022 – Apr 2023)*  
+- **Data Scientist – Mind Tech Sourcing** *(Jan 2026 – Jun 2026)*  
+  AI-powered quality assurance solutions with LLMs, RAG and speech-to-text.
 
-- **Reporting Analyst (Pilot)**  
-  Created complex reports and dashboards for offender behavior identification and financial analysis.  
+- **Real-Time Analyst – Allied Global Colombia** *(Jun 2023 – Jan 2026)*  
+  KPI monitoring, ETL processes and operational reporting.
 
 ---
 
-## 📜 Certifications
-- Advanced MySQL Course  
-- Advanced Python for Data Science  
-- Data Visualization with Power BI  
+## 🧪 Featured Projects
+- [**FraudShield**](https://github.com/Nicoplayz58/FraudShield) – Transactional fraud detection with gradient boosting models.  
+- [**JarvisNLP**](https://nicoplayz58.github.io/JarvisNLP/intro.html) – Text classification with NLP and deep learning.  
+- [**Home Credit Risk**](https://nicoplayz58.github.io/Home-Credit-Risky-Analysis/contexto.html) – Credit default risk prediction.  
+- [**EEG Depression Biomarkers**](https://campenaerts.github.io/RepositorioEEG/intro.html) – Deep learning on EEG signals for depression detection.  
 
 ---
 
@@ -54,10 +53,10 @@ Currently, I’m in my **4th year**, honored to be part of the **Honor Roll**, a
 ---
 
 ## 📫 Contact Me
-- **Email**: [nicoplayz58@gmail.com](mailto:nicoplayz58@gmail.com)  
+- **Email**: [nicolasrodriguezco10@gmail.com](mailto:nicolasrodriguezco10@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/nicolasrodriguez04](https://www.linkedin.com/in/nicolasrodriguez04/)  
 - **GitHub**: [github.com/Nicoplayz58](https://github.com/Nicoplayz58)  
 
 ---
 
-⭐️ _"Turning data into decisions, one model at a time."_  
+⭐️ _"Turning data into decisions, one model at a time."_
